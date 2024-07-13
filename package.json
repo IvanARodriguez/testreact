@@ -10,8 +10,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mantine/carousel": "^7.11.1",
+    "@mantine/core": "^7.11.1",
+    "@mantine/hooks": "^7.11.1",
+    "@mantine/modals": "^7.11.1",
+    "@mantine/nprogress": "^7.11.1",
+    "@tabler/icons-react": "^3.10.0",
+    "embla-carousel-react": "^8.1.6",
+    "install": "^0.13.0",
+    "npm": "^10.8.2",
+    "postcss": "^8.4.39",
+    "postcss-preset-mantine": "^1.15.0",
+    "postcss-simple-vars": "^7.0.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "styled-component": "^2.8.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
